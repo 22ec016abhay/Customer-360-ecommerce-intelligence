@@ -151,7 +151,7 @@ Five sections of business-question-driven SQL, each built as reusable views wher
 ![Business Snapshot](screenshots/business%20snapshot.png)
 
 **7. Category Trend Tooltip** — a custom report-page tooltip attached to the Revenue by Product Category chart on Page 1, showing a category-filtered revenue trend on hover instead of the default single-point tooltip.
-![Tooltip Showcase](screenshots/tool_tip-showcase.png)
+![Tooltip Showcase](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/tooltip.png)
 
 ---
 
