@@ -133,7 +133,7 @@ Five sections of business-question-driven SQL, each built as reusable views wher
 ## 📈 Dashboard Walkthrough (Power BI — 7 pages)
 
 **1. Executive Overview** — top-line KPI row (Total Revenue, AOV, Total Customers, Repeat Purchase Rate, At-Risk Customers/Revenue), a monthly revenue trend line, revenue by product category, and a state-level revenue map.
-![Executive Overview](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/executiveoverview.png)
+![Executive Overview](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/executive%20overview.png)
 
 **2. Customer Intelligence** — customer distribution across all 6 RFM segments, a recency distribution histogram, segment-vs-revenue comparison, and a Top 20 Customers table with full RFM detail, filterable by a segment slicer.
 ![Customer Intelligence](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/Customerintelligence.png)
