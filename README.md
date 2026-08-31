@@ -133,25 +133,25 @@ Five sections of business-question-driven SQL, each built as reusable views wher
 ## 📈 Dashboard Walkthrough (Power BI — 7 pages)
 
 **1. Executive Overview** — top-line KPI row (Total Revenue, AOV, Total Customers, Repeat Purchase Rate, At-Risk Customers/Revenue), a monthly revenue trend line, revenue by product category, and a state-level revenue map.
-![Executive Overview](screenshots/executive%20overview.png)
+![Executive Overview](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/executive%20overview.png)
 
 **2. Customer Intelligence** — customer distribution across all 6 RFM segments, a recency distribution histogram, segment-vs-revenue comparison, and a Top 20 Customers table with full RFM detail, filterable by a segment slicer.
-![Customer Intelligence](screenshots/Customer%20intelligence.png)
+![Customer Intelligence](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/Customer%20intelligence.png)
 
 **3. Retention & Opportunity** — the "what can we recover" page: At-Risk Revenue, Lost Customer Count, and an interactive **Reactivation Rate** What-If parameter that drives Potential Customers Reactivated, Potential Revenue Recovered, and Potential Annualized Revenue in real time via a gauge and supporting table.
-![Retention and Opportunity](screenshots/Retention%20and%20Opportunity.png)
+![Retention and Opportunity](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/Retention%20and%20Opportunity.png)
 
 **4. Customer Deep-Dive (drillthrough)** — right-click any customer anywhere in the report → drills through to a single-customer view: RFM scores, segment, full order history, and spend by category.
-![Customer Deep Dive](screenshots/Customer%20deep%20dive.png)
+![Customer Deep Dive](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/Customer%20deep%20dive.png)
 
 **5. Product Performance** — Total Profit, Total Products, and Avg Margin % cards; Revenue vs. Profit by category; a Top 10 Products by Revenue ranked bar chart; and a "High Sales, Low Profit" table that surfaces high-volume products barely clearing margin.
-![Product Performance](screenshots/Product%20performance.png)
+![Product Performance](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/Product%20performance.png)
 
 **6. Business Snapshot** — a compact 2×2 operational grid: revenue momentum vs. goal, the customer funnel (Total → Purchasing → Repeat → Champions), payment method mix, and revenue by acquisition channel.
-![Business Snapshot](screenshots/business%20snapshot.png)
+![Business Snapshot](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/business%20snapshot.png)
 
 **7. Category Trend Tooltip** — a custom report-page tooltip attached to the Revenue by Product Category chart on Page 1, showing a category-filtered revenue trend on hover instead of the default single-point tooltip.
-![Tooltip Showcase](screenshots/tool_tip-showcase.png)
+![Tooltip Showcase](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/tool_tip-showcase.png)
 
 ---
 
@@ -198,4 +198,12 @@ The Retention & Opportunity page includes an interactive **Reactivation Rate** p
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhaypareek/)
 - 🐙 [GitHub](https://github.com/22ec016abhay)
-- 
+  
+  [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
