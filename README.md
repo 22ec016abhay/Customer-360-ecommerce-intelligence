@@ -203,3 +203,7 @@ Phases 1–6 (business framing → SQL → Python cleaning/RFM → Power BI buil
 
 [Abhay Pareek / https://www.linkedin.com/in/abhaypareek/
  https://github.com/22ec016abhay ]
+
+ ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
