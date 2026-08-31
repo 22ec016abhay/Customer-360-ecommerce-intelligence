@@ -1,0 +1,67 @@
+{
+  "name": "Customer 360 - Minimalist Emerald",
+  "dataColors": [
+    "#0B7A5B",
+    "#233142",
+    "#8DA9C4",
+    "#D6A419",
+    "#C4453D",
+    "#6B7B8C",
+    "#A3C9A8"
+  ],
+  "background": "#FAFAF8",
+  "foreground": "#233142",
+  "foregroundNeutralSecondary": "#6B7B8C",
+  "tableAccent": "#0B7A5B",
+  "good": "#0B7A5B",
+  "neutral": "#D6A419",
+  "bad": "#C4453D",
+  "maximum": "#0B7A5B",
+  "center": "#D6A419",
+  "minimum": "#F0EFEA",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14,
+      "color": "#233142"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#233142"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28,
+      "color": "#0B7A5B"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E6E4DD" } }, "radius": 8 }],
+        "dropShadow": [{ "show": true, "color": { "solid": { "color": "#00000014" }}, "position": "Outer", "shadowBlur": 6, "shadowDistance": 1 }],
+        "visualHeader": [{ "show": true, "background": { "solid": { "color": "#FFFFFF" } } }],
+        "title": [{ "show": true, "fontColor": { "solid": { "color": "#233142" } }, "fontSize": 13, "bold": true }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{ "color": { "solid": { "color": "#0B7A5B" } }, "fontSize": 32, "bold": true }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#6B7B8C" } }, "fontSize": 11 }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#F0EFEA" } } }],
+        "border": [{ "show": false }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FAFAF8" } }, "transparency": 0 }]
+      }
+    }
+  }
+}

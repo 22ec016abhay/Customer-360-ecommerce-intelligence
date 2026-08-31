@@ -1,0 +1,131 @@
+product_id,product_name,category,subcategory,unit_price,cost_price,cost_data_reliable
+P0001,Cookware Set Classic,Home & Kitchen,Cookware,1479.0,1017.08,True
+P0002,Kurti Mini,Apparel,Women's Clothing,1919.0,1150.76,True
+P0003,Hand Wash Lite,Beauty & Personal Care,Personal Hygiene,329.0,160.88,True
+P0004,Cotton T-Shirt Plus,Apparel,Men's Clothing,439.0,292.61,True
+P0005,Laptop Sleeve Lite,Electronics,Laptop Accessories,3129.0,1961.94,True
+P0006,Keyboard Plus,Electronics,Laptop Accessories,409.0,283.22,True
+P0007,Kids T-Shirt Set Plus,Apparel,Kids Wear,2139.0,1076.1,True
+P0008,Foundation Plus,Beauty & Personal Care,Makeup,359.0,178.01,True
+P0009,Fitness Band,Electronics,Smart Watches,1739.0,1010.69,True
+P0010,Kids Frock Lite,Apparel,Kids Wear,1259.0,658.21,True
+P0011,Track Pants Lite,Apparel,Men's Clothing,1659.0,804.41,True
+P0012,Action Camera Lite,Electronics,Cameras,1679.0,909.33,True
+P0013,Hooded Jacket Lite,Apparel,Winter Wear,1309.0,846.0,True
+P0014,Phone Case Mini,Electronics,Mobile Accessories,1249.0,722.62,True
+P0015,Fitness Band Plus,Electronics,Smart Watches,3089.0,1425.92,True
+P0016,Skipping Rope Pro,Sports & Fitness,Gym Equipment,2519.0,1240.94,True
+P0017,Storage Box Set Classic,Home & Kitchen,Storage & Organization,469.0,322.31,True
+P0018,Kids Shorts Mini,Apparel,Kids Wear,2429.0,1583.95,True
+P0019,Pillow Set Plus,Home & Kitchen,Bedding,1249.0,592.55,True
+P0020,Wall Clock Pro,Home & Kitchen,Home Decor,2479.0,1388.33,True
+P0021,Wool Sweater Mini,Apparel,Winter Wear,579.0,332.23,True
+P0022,Formal Shirt,Apparel,Men's Clothing,379.0,256.71,True
+P0023,Deodorant,Beauty & Personal Care,Fragrances,469.0,288.73,True
+P0024,Wireless Mouse Plus,Electronics,Laptop Accessories,1769.0,1026.05,True
+P0025,Toaster Pro,Home & Kitchen,Small Appliances,2039.0,1011.78,True
+P0026,Over-Ear Headphones Mini,Electronics,Headphones,4869.0,3134.58,True
+P0027,Shoe Rack Lite,Home & Kitchen,Storage & Organization,3309.0,2229.3,True
+P0028,Hooded Jacket Classic,Apparel,Winter Wear,1619.0,1101.68,True
+P0029,Gaming Headset,Electronics,Headphones,719.0,358.78,True
+P0030,Face Wash Mini,Beauty & Personal Care,Skincare,169.0,89.8,True
+P0031,Tripod Stand,Electronics,Cameras,2139.0,1107.65,True
+P0032,Hooded Jacket Lite,Apparel,Winter Wear,2129.0,1147.93,True
+P0033,Wool Sweater Mini,Apparel,Winter Wear,929.0,544.09,True
+P0034,Body Wash Mini,Beauty & Personal Care,Personal Hygiene,309.0,201.02,True
+P0035,Kids Frock Plus,Apparel,Kids Wear,469.0,326.76,True
+P0036,Kids Shorts Plus,Apparel,Kids Wear,2009.0,1003.85,True
+P0037,Cookware Set Classic,Home & Kitchen,Cookware,279.0,182.43,True
+P0038,Electric Trimmer Plus,Beauty & Personal Care,Personal Hygiene,1099.0,694.84,True
+P0039,Wireless Earbuds Lite,Electronics,Headphones,3929.0,1840.78,True
+P0040,Cotton T-Shirt Classic,Apparel,Men's Clothing,1099.0,526.39,True
+P0041,Badminton Racket,Sports & Fitness,Outdoor Sports,3489.0,2113.72,True
+P0042,Wool Sweater,Apparel,Winter Wear,1039.0,484.06,True
+P0043,Sunscreen SPF50 Plus,Beauty & Personal Care,Skincare,539.0,286.37,True
+P0044,Tripod Stand Plus,Electronics,Cameras,3739.0,4666.31,False
+P0045,Hooded Jacket Plus,Apparel,Winter Wear,2259.0,1283.23,True
+P0046,Cycling Gloves Classic,Sports & Fitness,Cycling,659.0,414.06,True
+P0047,Kids Frock Lite,Apparel,Kids Wear,1979.0,1168.24,True
+P0048,Maxi Dress,Apparel,Women's Clothing,2009.0,1152.06,True
+P0049,Thermal Set Plus,Apparel,Winter Wear,1459.0,812.5,True
+P0050,Non-Stick Pan Mini,Home & Kitchen,Cookware,339.0,161.69,True
+P0051,Wall Clock,Home & Kitchen,Home Decor,359.0,218.67,True
+P0052,Sunscreen SPF50 Plus,Beauty & Personal Care,Skincare,549.0,316.85,True
+P0053,Sandals Lite,Apparel,Footwear,2309.0,1182.95,True
+P0054,Keyboard Plus,Electronics,Laptop Accessories,2239.0,1430.47,True
+P0055,Perfume 100ml,Beauty & Personal Care,Fragrances,429.0,201.31,True
+P0056,Webcam HD Pro,Electronics,Cameras,1669.0,818.32,True
+P0057,Cotton T-Shirt,Apparel,Men's Clothing,2349.0,1531.62,True
+P0058,Kids T-Shirt Set Plus,Apparel,Kids Wear,1699.0,1134.7,True
+P0059,Keyboard Plus,Electronics,Laptop Accessories,4089.0,2030.77,True
+P0060,Kids Frock Plus,Apparel,Kids Wear,2269.0,1326.99,True
+P0061,Resistance Bands Lite,Sports & Fitness,Yoga & Fitness,3279.0,2210.12,True
+P0062,Laptop Sleeve,Electronics,Laptop Accessories,1799.0,859.05,True
+P0063,Cycling Helmet Pro,Sports & Fitness,Cycling,1079.0,600.76,True
+P0064,Photo Frame Set,Home & Kitchen,Home Decor,2919.0,1941.67,True
+P0065,USB Cable Classic,Electronics,Mobile Accessories,339.0,195.84,True
+P0066,Skipping Rope Pro,Sports & Fitness,Gym Equipment,1799.0,909.44,True
+P0067,Electric Trimmer Mini,Beauty & Personal Care,Personal Hygiene,279.0,149.1,True
+P0068,Photo Frame Set Plus,Home & Kitchen,Home Decor,3319.0,1761.73,True
+P0069,Running Shorts Lite,Sports & Fitness,Sportswear,2179.0,1363.52,True
+P0070,Fitness Band,Electronics,Smart Watches,2019.0,1399.06,True
+P0071,Pillow Set Plus,Home & Kitchen,Bedding,3389.0,1738.37,True
+P0072,Laptop Sleeve Plus,Electronics,Laptop Accessories,2649.0,3107.28,False
+P0073,Screen Guard Pro,Electronics,Mobile Accessories,1649.0,1777.65,False
+P0074,Cooling Pad Lite,Electronics,Laptop Accessories,3169.0,1824.3,True
+P0075,Bedsheet Set Pro,Home & Kitchen,Bedding,429.0,222.93,True
+P0076,Pillow Set Classic,Home & Kitchen,Bedding,3209.0,1636.24,True
+P0077,Cycling Gloves Mini,Sports & Fitness,Cycling,759.0,434.42,True
+P0078,Kids Frock Plus,Apparel,Kids Wear,2479.0,1265.56,True
+P0079,Wardrobe Organizer Classic,Home & Kitchen,Storage & Organization,2439.0,1561.95,True
+P0080,Yoga Mat Pro,Sports & Fitness,Yoga & Fitness,1109.0,700.95,True
+P0081,Bedsheet Set,Home & Kitchen,Bedding,1449.0,881.1,True
+P0082,Comforter Plus,Home & Kitchen,Bedding,2319.0,1354.17,True
+P0083,Yoga Mat Classic,Sports & Fitness,Yoga & Fitness,549.0,361.7,True
+P0084,Formal Shoes Lite,Apparel,Footwear,1009.0,501.1,True
+P0085,Sports T-Shirt Mini,Sports & Fitness,Sportswear,359.0,214.58,True
+P0086,Kajal,Beauty & Personal Care,Makeup,1059.0,480.94,True
+P0087,Bicycle Bottle Holder,Sports & Fitness,Cycling,2149.0,1088.73,True
+P0088,Sports T-Shirt Classic,Sports & Fitness,Sportswear,2659.0,1312.46,True
+P0089,Leggings Plus,Apparel,Women's Clothing,1829.0,999.88,True
+P0090,Kajal Pro,Beauty & Personal Care,Makeup,1419.0,687.34,True
+P0091,Cotton T-Shirt Mini,Apparel,Men's Clothing,1059.0,506.59,True
+P0092,Kids T-Shirt Set,Apparel,Kids Wear,2339.0,1565.57,True
+P0093,Leggings Plus,Apparel,Women's Clothing,879.0,540.58,True
+P0094,Electric Trimmer Pro,Beauty & Personal Care,Personal Hygiene,1249.0,735.41,True
+P0095,Non-Stick Pan Mini,Home & Kitchen,Cookware,1979.0,1010.21,True
+P0096,Sports T-Shirt Classic,Sports & Fitness,Sportswear,559.0,376.94,True
+P0097,Photo Frame Set Plus,Home & Kitchen,Home Decor,3189.0,1939.79,True
+P0098,Fitness Band Classic,Electronics,Smart Watches,1899.0,1020.34,True
+P0099,Wireless Earbuds Classic,Electronics,Headphones,3719.0,2507.64,True
+P0100,Body Mist Mini,Beauty & Personal Care,Fragrances,1349.0,870.06,True
+P0101,Over-Ear Headphones Plus,Electronics,Headphones,3329.0,1568.08,True
+P0102,Yoga Mat Mini,Sports & Fitness,Yoga & Fitness,819.0,552.53,True
+P0103,Gym Gloves Mini,Sports & Fitness,Gym Equipment,2509.0,1134.82,True
+P0104,Lipstick Mini,Beauty & Personal Care,Makeup,249.0,153.35,True
+P0105,USB Cable Plus,Electronics,Mobile Accessories,329.0,161.28,True
+P0106,Webcam HD Classic,Electronics,Cameras,2889.0,1799.77,True
+P0107,Shampoo 200ml,Beauty & Personal Care,Haircare,1019.0,515.68,True
+P0108,Mixer Grinder Classic,Home & Kitchen,Small Appliances,2569.0,1308.42,True
+P0109,Football Mini,Sports & Fitness,Outdoor Sports,1449.0,922.47,True
+P0110,Comforter,Home & Kitchen,Bedding,2369.0,1569.0,True
+P0111,Fitness Band Lite,Electronics,Smart Watches,3399.0,2012.47,True
+P0112,Badminton Racket,Sports & Fitness,Outdoor Sports,559.0,302.94,True
+P0113,Shoe Rack Classic,Home & Kitchen,Storage & Organization,1119.0,571.81,True
+P0114,Wool Sweater Pro,Apparel,Winter Wear,2449.0,1342.72,True
+P0115,Bicycle Bottle Holder,Sports & Fitness,Cycling,3599.0,2187.42,True
+P0116,Sunscreen SPF50 Lite,Beauty & Personal Care,Skincare,1219.0,701.73,True
+P0117,Hair Oil Pro,Beauty & Personal Care,Haircare,919.0,526.71,True
+P0118,Kids Smart Watch Classic,Electronics,Smart Watches,1229.0,775.02,True
+P0119,Cookware Set Classic,Home & Kitchen,Cookware,1169.0,533.16,True
+P0120,Mixer Grinder Pro,Home & Kitchen,Small Appliances,2359.0,1166.0,True
+P0121,Hand Wash Plus,Beauty & Personal Care,Personal Hygiene,1429.0,983.84,True
+P0122,Sandals Lite,Apparel,Footwear,2319.0,1258.15,True
+P0123,Toaster,Home & Kitchen,Small Appliances,309.0,210.76,True
+P0124,Saree Lite,Apparel,Women's Clothing,1249.0,863.89,True
+P0125,Wardrobe Organizer Pro,Home & Kitchen,Storage & Organization,3389.0,2247.76,True
+P0126,Saree Mini,Apparel,Women's Clothing,959.0,523.88,True
+P0127,Power Bank Lite,Electronics,Mobile Accessories,4309.0,2280.45,True
+P0128,Comforter,Home & Kitchen,Bedding,809.0,476.66,True
+P0129,Hair Serum Classic,Beauty & Personal Care,Haircare,1419.0,885.47,True
+P0130,Over-Ear Headphones,Electronics,Headphones,2989.0,1417.67,True
