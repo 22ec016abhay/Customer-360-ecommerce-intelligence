@@ -136,19 +136,19 @@ Five sections of business-question-driven SQL, each built as reusable views wher
 ![Executive Overview](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/executive%20overview.png)
 
 **2. Customer Intelligence** — customer distribution across all 6 RFM segments, a recency distribution histogram, segment-vs-revenue comparison, and a Top 20 Customers table with full RFM detail, filterable by a segment slicer.
-![Customer Intelligence](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/Customerintelligence.png)
+![Customer Intelligence](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/Customer%20intelligence.png)
 
 **3. Retention & Opportunity** — the "what can we recover" page: At-Risk Revenue, Lost Customer Count, and an interactive **Reactivation Rate** What-If parameter that drives Potential Customers Reactivated, Potential Revenue Recovered, and Potential Annualized Revenue in real time via a gauge and supporting table.
-![Retention and Opportunity](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/RetentionandOpportunity.png)
+![Retention and Opportunity](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/Retention%20and%20Opportunity.png)
 
 **4. Customer Deep-Dive (drillthrough)** — right-click any customer anywhere in the report → drills through to a single-customer view: RFM scores, segment, full order history, and spend by category.
-![Customer Deep Dive](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/Customerdeepdive.png)
+![Customer Deep Dive](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/Customer%20deep%20dive.png)
 
 **5. Product Performance** — Total Profit, Total Products, and Avg Margin % cards; Revenue vs. Profit by category; a Top 10 Products by Revenue ranked bar chart; and a "High Sales, Low Profit" table that surfaces high-volume products barely clearing margin.
-![Product Performance](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/Productperformance.png)
+![Product Performance](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/Product%20performance.png)
 
 **6. Business Snapshot** — a compact 2×2 operational grid: revenue momentum vs. goal, the customer funnel (Total → Purchasing → Repeat → Champions), payment method mix, and revenue by acquisition channel.
-![Business Snapshot](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/businesssnapshot.png)
+![Business Snapshot](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/business%20snapshot.png)
 
 **7. Category Trend Tooltip** — a custom report-page tooltip attached to the Revenue by Product Category chart on Page 1, showing a category-filtered revenue trend on hover instead of the default single-point tooltip.
 ![Tooltip Showcase](customer-360-ecommerce-intelligence/customer-360-ecommerce-intelligence/screenshots/tooltip.png)
